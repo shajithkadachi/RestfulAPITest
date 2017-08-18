@@ -25,3 +25,4 @@ hs_err_pid*
 #Adding list of directories to be ignore
 Servers/
 RemoteSystemsTempFiles/
+.metadata/
